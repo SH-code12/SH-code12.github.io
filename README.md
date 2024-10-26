@@ -19,7 +19,6 @@ As an aspiring software engineer, I have developed proficiency in various progra
 
   ![Git](https://img.icons8.com/color/48/000000/git.png) 
   ![GitHub](https://img.icons8.com/color/48/000000/github.png)
-  ![GitHub Actions](https://simpleicons.org/icons/githubactions.svg)
   ![Linux](https://img.icons8.com/color/48/000000/linux.png) 
   ![Microsoft SQL Server](https://img.icons8.com/color/48/000000/microsoft-sql-server.png) 
   ![Jenkins](https://img.icons8.com/color/48/000000/jenkins.png) 
@@ -29,8 +28,6 @@ As an aspiring software engineer, I have developed proficiency in various progra
   ![Ansible](https://img.icons8.com/color/48/000000/ansible.png) 
   ![Kubernetes](https://img.icons8.com/color/48/000000/kubernetes.png) 
   ![Grafana](https://img.icons8.com/color/48/000000/grafana.png) 
-  ![Prometheus](https://simpleicons.org/icons/prometheus.svg) 
-  ![Loki](https://img.icons8.com/color/48/000000/loki.png) 
 
 ## 🔧 Skills
 
