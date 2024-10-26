@@ -43,7 +43,7 @@ I am continuously expanding my knowledge in cloud technologies and advanced DevO
 
 Feel free to connect with me via:
 
-- [Email](mailto:shahdelnassag@gmail.com) ![Email icon](https://github.com/tandpfun/skill-icons/blob/main/icons/Gmail-Dark.svg)
+- [Email](mailto:shahdelnassag@gmail.com) 
 
 ## 📄 Projects
 
