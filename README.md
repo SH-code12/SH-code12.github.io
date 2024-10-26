@@ -21,7 +21,7 @@ As an aspiring software engineer, I have developed proficiency in various progra
   ![GitHub](https://img.icons8.com/color/48/000000/github.png) 
   ![Linux](https://img.icons8.com/color/48/000000/linux.png) 
   ![Microsoft SQL Server](https://img.icons8.com/color/48/000000/microsoft-sql-server.png) 
-  ![GitHub Actions]([https://img.icons8.com/color/48/000000/github-actions.png](https://images.app.goo.gl/EA1RZyosLLoUZWps9)) 
+  ![GitHub Actions](icons/GithubActions-Dark.svg)
   ![Jenkins](https://img.icons8.com/color/48/000000/jenkins.png) 
   ![Docker](https://img.icons8.com/color/48/000000/docker.png) 
   ![Docker Compose](https://img.icons8.com/color/48/000000/docker.png) 
