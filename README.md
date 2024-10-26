@@ -7,19 +7,19 @@ I am a dedicated student at the Faculty of Computers and Artificial Intelligence
 As an aspiring software engineer, I have developed proficiency in various programming languages and tools, focusing on creating efficient, scalable applications. My experience encompasses:
 
 - **Programming Languages**:
-  
+
   ![Python](https://img.icons8.com/color/48/000000/python.png) 
   ![JavaScript](https://img.icons8.com/color/48/000000/javascript.png) 
   ![HTML](https://img.icons8.com/color/48/000000/html-5.png)  
   ![CSS](https://img.icons8.com/color/48/000000/css3.png) 
   ![C++](https://img.icons8.com/color/48/000000/c-plus-plus.png) 
-  ![Java](https://github.com/tandpfun/skill-icons/blob/main/icons/Java-Dark.svg) 
+  ![Java](https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png)
 
 - **DevOps Tools**:
-  
+
   ![Git](https://img.icons8.com/color/48/000000/git.png) 
   ![GitHub](https://img.icons8.com/color/48/000000/github.png)
-  ![GitHub Actions](https://github.com/tandpfun/skill-icons/blob/main/icons/GithubActions-Dark.svg) 
+  ![GitHub Actions](https://img.icons8.com/color/48/000000/github-actions.png) 
   ![Linux](https://img.icons8.com/color/48/000000/linux.png) 
   ![Microsoft SQL Server](https://img.icons8.com/color/48/000000/microsoft-sql-server.png) 
   ![Jenkins](https://img.icons8.com/color/48/000000/jenkins.png) 
@@ -29,8 +29,8 @@ As an aspiring software engineer, I have developed proficiency in various progra
   ![Ansible](https://img.icons8.com/color/48/000000/ansible.png) 
   ![Kubernetes](https://img.icons8.com/color/48/000000/kubernetes.png) 
   ![Grafana](https://img.icons8.com/color/48/000000/grafana.png) 
-  ![Prometheus](https://github.com/tandpfun/skill-icons/blob/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Prometheus.svg#L1) 
-  ![Loki]([https://img.icons8.com/color/48/000000/loki.png](https://images.app.goo.gl/qMw2RozG5BPZrQXP7)) 
+  ![Prometheus](https://img.icons8.com/color/48/000000/prometheus.png) 
+  ![Loki](https://img.icons8.com/color/48/000000/loki.png) 
 
 ## 🔧 Skills
 
