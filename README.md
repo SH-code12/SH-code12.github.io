@@ -10,18 +10,18 @@ As an aspiring software engineer, I have developed proficiency in various progra
   
   ![Python](https://img.icons8.com/color/48/000000/python.png) 
   ![JavaScript](https://img.icons8.com/color/48/000000/javascript.png) 
-  ![HTML](https://img.icons8.com/color/48/000000/html-5.png) 
+  ![HTML](https://img.icons8.com/color/48/000000/html-5.png)  
   ![CSS](https://img.icons8.com/color/48/000000/css3.png) 
   ![C++](https://img.icons8.com/color/48/000000/c-plus-plus.png) 
-  ![Java]([https://img.icons8.com/color/48/000000/java-coffee-cup.png](https://images.app.goo.gl/G5yhwZSC6sTAX9356)) 
+  ![Java](https://github.com/tandpfun/skill-icons/blob/main/icons/Java-Dark.svg) 
 
 - **DevOps Tools**:
   
   ![Git](https://img.icons8.com/color/48/000000/git.png) 
-  ![GitHub](https://img.icons8.com/color/48/000000/github.png) 
+  ![GitHub](https://img.icons8.com/color/48/000000/github.png)
+  ![GitHub Actions](https://github.com/tandpfun/skill-icons/blob/main/icons/GithubActions-Dark.svg) 
   ![Linux](https://img.icons8.com/color/48/000000/linux.png) 
   ![Microsoft SQL Server](https://img.icons8.com/color/48/000000/microsoft-sql-server.png) 
-  ![GitHub Actions](icons/GithubActions-Dark.svg)
   ![Jenkins](https://img.icons8.com/color/48/000000/jenkins.png) 
   ![Docker](https://img.icons8.com/color/48/000000/docker.png) 
   ![Docker Compose](https://img.icons8.com/color/48/000000/docker.png) 
@@ -29,7 +29,7 @@ As an aspiring software engineer, I have developed proficiency in various progra
   ![Ansible](https://img.icons8.com/color/48/000000/ansible.png) 
   ![Kubernetes](https://img.icons8.com/color/48/000000/kubernetes.png) 
   ![Grafana](https://img.icons8.com/color/48/000000/grafana.png) 
-  ![Prometheus](https://images.app.goo.gl/ZCxAwd3au4zYbX649) 
+  ![Prometheus](https://github.com/tandpfun/skill-icons/blob/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Prometheus.svg#L1) 
   ![Loki]([https://img.icons8.com/color/48/000000/loki.png](https://images.app.goo.gl/qMw2RozG5BPZrQXP7)) 
 
 ## 🔧 Skills
@@ -46,7 +46,7 @@ I am continuously expanding my knowledge in cloud technologies and advanced DevO
 
 Feel free to connect with me via:
 
-- [Email](mailto:shahdelnassag@gmail.com)
+- [Email](mailto:shahdelnassag@gmail.com) ![Email icon](https://github.com/tandpfun/skill-icons/blob/main/icons/Gmail-Dark.svg)
 
 ## 📄 Projects
 
