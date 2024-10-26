@@ -6,20 +6,22 @@ I am a dedicated student at the Faculty of Computers and Artificial Intelligence
 
 As an aspiring software engineer, I have developed proficiency in various programming languages and tools, focusing on creating efficient, scalable applications. My experience encompasses:
 
-- **Programming Languages**: 
+- **Programming Languages**:
+  
   ![Python](https://img.icons8.com/color/48/000000/python.png) 
   ![JavaScript](https://img.icons8.com/color/48/000000/javascript.png) 
   ![HTML](https://img.icons8.com/color/48/000000/html-5.png) 
   ![CSS](https://img.icons8.com/color/48/000000/css3.png) 
   ![C++](https://img.icons8.com/color/48/000000/c-plus-plus.png) 
-  ![Java](https://img.icons8.com/color/48/000000/java-coffee-cup.png) 
+  ![Java]([https://img.icons8.com/color/48/000000/java-coffee-cup.png](https://images.app.goo.gl/G5yhwZSC6sTAX9356)) 
 
-- **DevOps Tools**: 
+- **DevOps Tools**:
+  
   ![Git](https://img.icons8.com/color/48/000000/git.png) 
   ![GitHub](https://img.icons8.com/color/48/000000/github.png) 
   ![Linux](https://img.icons8.com/color/48/000000/linux.png) 
   ![Microsoft SQL Server](https://img.icons8.com/color/48/000000/microsoft-sql-server.png) 
-  ![GitHub Actions](https://img.icons8.com/color/48/000000/github-actions.png) 
+  ![GitHub Actions]([https://img.icons8.com/color/48/000000/github-actions.png](https://images.app.goo.gl/EA1RZyosLLoUZWps9)) 
   ![Jenkins](https://img.icons8.com/color/48/000000/jenkins.png) 
   ![Docker](https://img.icons8.com/color/48/000000/docker.png) 
   ![Docker Compose](https://img.icons8.com/color/48/000000/docker.png) 
@@ -27,8 +29,8 @@ As an aspiring software engineer, I have developed proficiency in various progra
   ![Ansible](https://img.icons8.com/color/48/000000/ansible.png) 
   ![Kubernetes](https://img.icons8.com/color/48/000000/kubernetes.png) 
   ![Grafana](https://img.icons8.com/color/48/000000/grafana.png) 
-  ![Prometheus](https://img.icons8.com/color/48/000000/prometheus.png) 
-  ![Loki](https://img.icons8.com/color/48/000000/loki.png) 
+  ![Prometheus](https://images.app.goo.gl/ZCxAwd3au4zYbX649) 
+  ![Loki]([https://img.icons8.com/color/48/000000/loki.png](https://images.app.goo.gl/qMw2RozG5BPZrQXP7)) 
 
 ## 🔧 Skills
 
